@@ -95,7 +95,9 @@ namespace GenerarPDF
             PDF pdf = new PDF(ordenFinal);
 
             // Pasa la ruta de la imagen a GenerarPDF
-            pdf.GenerarPDF(DatoImagen);
+            //pdf.GenerarPDF(DatoImagen);
+
+            pdf.GenerarPDFGolpeFuerte(DatoImagen);
         }
     }
 }
