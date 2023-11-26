@@ -849,23 +849,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EQUIPO-2\\.nuget\\packages\\": {},
-    "D:\\VS2\\NuGetPackages": {}
+    "C:\\Users\\oscar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj",
+      "projectUniqueName": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj",
       "projectName": "GenerarPDF",
-      "projectPath": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj",
-      "packagesPath": "C:\\Users\\EQUIPO-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\obj\\",
+      "projectPath": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj",
+      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VS2\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EQUIPO-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -923,7 +923,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

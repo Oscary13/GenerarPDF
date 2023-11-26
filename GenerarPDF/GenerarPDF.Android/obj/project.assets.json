@@ -4407,24 +4407,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EQUIPO-2\\.nuget\\packages\\": {},
-    "D:\\VS2\\NuGetPackages": {}
+    "C:\\Users\\oscar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF.Android\\GenerarPDF.Android.csproj",
+      "projectUniqueName": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF.Android\\GenerarPDF.Android.csproj",
       "projectName": "GenerarPDF.Android",
-      "projectPath": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF.Android\\GenerarPDF.Android.csproj",
-      "packagesPath": "C:\\Users\\EQUIPO-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF.Android\\obj\\",
+      "projectPath": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF.Android\\GenerarPDF.Android.csproj",
+      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "D:\\VS2\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EQUIPO-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4438,8 +4438,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj": {
-              "projectPath": "C:\\Users\\EQUIPO-2\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj"
+            "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj": {
+              "projectPath": "C:\\Users\\oscar\\source\\repos\\GenerarPDF\\GenerarPDF\\GenerarPDF\\GenerarPDF.csproj"
             }
           }
         }
@@ -4452,21 +4452,9 @@
             "target": "Package",
             "version": "[2.88.6, )"
           },
-          "SkiaSharp": {
-            "target": "Package",
-            "version": "[2.88.6, )"
-          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.8.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.8.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2612, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

@@ -12,11 +12,11 @@ embedassembliesintoapk=false
 androidlinkmode=none
 androidlinkskip=
 androidsdkbuildtoolsversion=32.0.0
-androidsdkpath=d:\android\android-sdk\
+androidsdkpath=c:\program files (x86)\android\android-sdk\
 androidndkpath=
-javasdkpath=c:\program files\microsoft\jdk-11.0.16.101-hotspot\
+javasdkpath=c:\program files (x86)\android\openjdk\jdk-17.0.8.101-hotspot\
 androidsequencepointsmode=none
-xamarinandroidversion=13.2.1-2
+xamarinandroidversion=13.2.2-0
 monosymbolarchive=false
 androiduselatestplatformsdk=false
 targetframeworkversion=v13.0
@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638363469442615111
+_nugetassetstimestamp=638364330032406284
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\equipo-2\source\repos\generarpdf\generarpdf\generarpdf.android\generarpdf.android.csproj
+projectfullpath=c:\users\oscar\source\repos\generarpdf\generarpdf\generarpdf.android\generarpdf.android.csproj
