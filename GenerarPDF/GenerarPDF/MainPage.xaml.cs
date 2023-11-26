@@ -99,7 +99,9 @@ namespace GenerarPDF
 
             //pdf.GenerarPDFGolpeFuerte(DatoImagen);
 
-            pdf.GenerarPDFSinDatos(DatoImagen);
+            //pdf.GenerarPDFSinDatos(DatoImagen);
+
+            pdf.GenerarPDFPulidoEncerado(DatoImagen);
         }
     }
 }
